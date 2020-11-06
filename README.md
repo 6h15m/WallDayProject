@@ -2,7 +2,11 @@
 
 
 
-**이미지**
+**MAIN**
+-----------
+<img src = "![bgimage](https://user-images.githubusercontent.com/52748335/98330886-b9ab3b00-203e-11eb-8f33-a5bc2acd1be4.jpg)">
+
+
 Java swing 패키지를 이용하여 D-DAY를 간단하게 표출하는 프로그램입니다.
 
 
