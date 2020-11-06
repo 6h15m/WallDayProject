@@ -1,4 +1,4 @@
-# Project Title / WallDay Project
+# WallDay Project
 
 **이미지**
 Java swing 패키지를 이용하여 D-DAY를 간단하게 표출하는 프로그램입니다.
