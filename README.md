@@ -12,7 +12,7 @@ Java swing 패키지를 이용하여 D-DAY를 간단하게 표출하는 프로�
 
 
 
-### Prerequisites / 선행 조건
+## Prerequisites / 선행 조건
 
  - JDK 17.0 이상
  - Eclipse 2020.01 이후 릴리즈
